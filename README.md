@@ -16,4 +16,4 @@
 > Run `/nyan` or `/pusheen` then place a number from `0` to `100` or do `auto` for automatic progress according to the note's checked checkboxes.
 
 > [!WARNING]
-> This progress bar is untested by other users, it works only on my end. BACKUP YOUR VAULT before introducing this plugin.
+> This progress bar is untested by other users, it works only on my end for Windows 11. BACKUP YOUR VAULT before introducing this plugin.
