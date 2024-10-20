@@ -5,7 +5,12 @@
 ![cat-nyan-cat](https://github.com/xhyabunny/obsidian-sample-plugin/assets/106491722/262b2c04-c5bc-44a3-86d0-26967b9b4660)
 
 ### HOW TO INSTALL / UPDATE
-Download the main.js file from the hotfix tag, and replace the old that should be located in your plugins folder.
+1. Download & activate the original NyanBar from the community store.
+2. Download the main.js file from the hotfix tag.
+3. Go to your NyanBar plugins folder location.
+	[VAULT] / .obsidian / plugins / nyanbar
+4. Replace the old main.js file with the new one from the hotfix tag.
+5. It should work!
 
 > [!NOTE]
 > Run `/nyan` or `/pusheen` then place a number from `0` to `100` or do `auto` for automatic progress according to the note's checked checkboxes.
