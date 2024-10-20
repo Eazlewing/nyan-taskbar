@@ -12,6 +12,10 @@
 5. Replace the old main.js file with the new one from the hotfix tag.
 
 
+![2024-10-20 11-51-41](https://github.com/user-attachments/assets/066a33d7-40f5-422a-8283-e7c0c6dc828b)
+![avbeaveaveav](https://github.com/user-attachments/assets/07d868b9-e941-49a3-a856-c82053148084)
+
+
 > [!NOTE]
 > Run `/nyan` or `/pusheen` then place a number from `0` to `100` or do `auto` for automatic progress according to the note's checked checkboxes.
 
