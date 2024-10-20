@@ -7,10 +7,9 @@
 ### HOW TO INSTALL / UPDATE
 1. Download & activate the original NyanBar from the community store.
 2. Download the main.js file from the hotfix tag.
-3. Go to your NyanBar plugins folder location.
-	[VAULT] / .obsidian / plugins / nyanbar
-4. Replace the old main.js file with the new one from the hotfix tag.
-5. It should work!
+3. Go to your NyanBar plugins folder location. EXAMPLE : [VAULT] / .obsidian / plugins / nyanbar
+5. Replace the old main.js file with the new one from the hotfix tag.
+6. It should work!
 
 > [!NOTE]
 > Run `/nyan` or `/pusheen` then place a number from `0` to `100` or do `auto` for automatic progress according to the note's checked checkboxes.
